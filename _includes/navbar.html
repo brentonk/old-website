@@ -14,9 +14,7 @@
       <ul class="nav navbar-nav">
         {% for cat in site.all_cats %}
         <li
-           {% if page.category == cat %}
-           class="active"
-           {% endif %}
+           {% if page.category == cat %}class="active"{% endif %}
         ><a href="{{cat}}.html">{{site.cat_titles[forloop.index0]}}</a></li>
         {% endfor %}
       </ul>
