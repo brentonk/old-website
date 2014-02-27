@@ -12,3 +12,6 @@ _site/*
 *.toc
 img/*.pdf
 img/*.tex
+
+# OS X junk
+.DS_Store
