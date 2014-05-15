@@ -1,0 +1,16 @@
+---
+layout: master
+---
+
+<div class="container">
+  <div class="row">
+    <div class="{{page.textcol}}">
+      {{content}}
+    </div>
+    <div class="{{page.imagecol}}">
+      {% if page.image.url %}<a href="{{page.image.url}}">{% endif %}
+      <img src="{{page.image.src}}" class="{% if page.image.thumbnail %}img-thumbnail{% else %}img-responsive{% endif %}" alt="{{page.image.alt}}" title="{{page.image.title}}">
+      {% if page.image.url %}</a>{% endif %}
+    </div>
+  </div>
+</div>

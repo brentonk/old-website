@@ -3,3 +3,7 @@ exclude: ["CNAME", ".gitignore", "Gemfile", "Gemfile.lock", "LICENSE"]
 # Page categories (for making navbar)
 all_cats: ['index', 'research', 'teaching', 'software', 'cv']
 cat_titles: ['Home', 'Research', 'Teaching', 'Software', 'CV']
+
+markdown: redcarpet
+redcarpet:
+  extensions: ['disable_indented_code_blocks']

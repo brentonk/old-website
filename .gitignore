@@ -15,3 +15,6 @@ img/*.tex
 
 # OS X junk
 .DS_Store
+
+# Files for old website
+old/

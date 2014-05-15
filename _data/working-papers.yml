@@ -1,0 +1,181 @@
+- title: 'Dividing the Conquered'
+  links:
+    - name: PDF
+      url: data/divconq.pdf
+  abstract-short: >-
+    This paper uses a formal model to develop a theory of the relationship
+    between social conflict within a piece of territory and the policies of an
+    extractive outside force (e.g., a military occupier or colonial power).
+    The results of the analysis run counter to the traditional notion of
+    "divide and rule."
+  abstract-long: >-
+    When an outside power gains control of a piece of territory, such as in a
+    colonial endeavor or a military occupation, it inherits the burden of
+    managing internal conflict among the groups already residing there.  Using
+    a formal model, this paper develops a new theory of how the policies of an
+    extractive outside force affect the occurrence of internal social
+    conflict, and vice versa.  When an outside ruler confronts a highly
+    fractionalized society, the most profitable policy is one that maximizes
+    internal conflict and minimizes resistance against external rule.
+    However, the broader analysis does not lend support to the conventional
+    wisdom of "divide and rule."  All else equal, a ruler would rather govern
+    a unified society than a divided one, as internal conflict is economically
+    destructive.  Similarly, I find that an outside force has no incentive to
+    create artificial inequality between identical social groups.  The results
+    of the model also suggest that harsh extractive policies and violent
+    resistance may be more likely to occur when insurgents are concentrated in
+    a few groups than when they have a broad base.  In extensions to the
+    model, I show that natural resource wealth is less valuable than it might
+    appear, and that productive investment can reduce commitment problems that
+    otherwise lead to inefficiently high levels of appropriation.
+
+- title: 'A General Solution to Nonignorable Missing Outcomes in Binary Choice Data'
+  links:
+    - name: PDF
+      url: data/idlogit.pdf
+    - name: Poster
+      url: data/idlogit_poster.pdf
+    - name: Github
+      url: https://github.com/brentonk/idlogit
+  note: >-
+    Winner of the 2011 award for the best poster presented at the annual Polmeth meeting.
+  abstract-short: >-
+    This paper develops a set of methods to estimate logistic regression
+    coefficients when there is nonignorable missingness or measurement error
+    in the outcome variable, as is common in empirical conflict research.
+    Unlike common approaches to missing outcomes, these estimators do not
+    depend on untestable assumptions or require application-specific
+    programming.
+  abstract-long: >-
+    I provide a set of methods to estimate logistic regression coefficients
+    when there is nonignorable missingness or measurement error in the outcome
+    variable. Instead of requiring knowledge of the process by which the data
+    went missing, these methods estimate bounds on the set of results that
+    could be obtained under any assumption about the source of
+    missingness. This approach is conservative by design, allowing analysts to
+    discover exactly what kinds of results are---and are
+    not---consistent with their data, given the uncertainty induced by
+    missingness. Unlike existing approaches to nonignorable missing data, the
+    estimators presented in this paper do not depend on untestable
+    assumptions, nor do they require application-specific programming. I use
+    simulations to illustrate which applied settings are most favorable to
+    each of the three methods that I develop. I apply the methods to data from
+    two previous studies, [Oneal and Russett's
+    (1997)](http://www.jstor.org/stable/3013934) analysis of the liberal peace
+    and [Lyall's
+    (2010)](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7093156)
+    analysis of counterinsurgency success, to examine the robustness of their
+    results against potential miscoding of outcomes.
+
+- title: 'Communication between Allies'
+  abstract-short: >-
+    What kinds of information can allied countries credibly reveal to each
+    other?  In a formal analysis of communication in a public goods dilemma, I
+    find that the participants never reveal information about their
+    willingness to contribute.  Moreover, sharing of intelligence about a
+    common enemy can occur only under restrictive conditions.  However, the
+    allies may be able to reveal their comparative advantage among potential
+    avenues of contribution.
+  abstract-long: >-
+    I study the problems of diplomatic communication between states that have
+    a common purpose, such as in a joint military effort. I analyze a formal
+    model to characterize the conditions under which a state can credibly
+    reveal private information to its ally. On one hand, the joint effort is
+    more likely to be successful if the allies are fully informed about the
+    international environment. On the other hand, each individual state would
+    prefer to free-ride on its partners' efforts, all else equal. A state
+    therefore may have an incentive to conceal information from its ally, if
+    revealing such information would cause the ally to contribute less. Using
+    a formal model, I characterize what kinds of topics states can (and
+    cannot) credibly communicate about with their allies. No informative
+    communication is possible when the source of uncertainty is a state's
+    valuation of the issue at stake. In this case, a state prefers to pretend
+    to be relatively unwilling to participate, so as to induce greater
+    contributions by its partners. A similar result holds when one state has
+    private knowledge of the common enemy's strength: communication is
+    possible only under highly restrictive conditions. However, when there are
+    multiple ways to contribute, a state can credibly reveal information about
+    its comparative advantage.
+
+- title: 'Choosing to Make an Ultimatum'
+  note: >-
+    Co-authored with [Mark Fey](https://www.rochester.edu/college/faculty/markfey/).
+  abstract-short: >-
+    How do flexibility and the other attributes of the bargaining process
+    affect the resolution of international crises?  We show that any outcome
+    of a complex negotiation procedure could also be attained by a simple
+    take-it-or-leave-it offer. Our results cast doubt on the common
+    supposition that a state is better off using a flexible bargaining
+    strategy than an inflexible one.
+  abstract-long: >-
+    How do flexibility and the other attributes of the bargaining process
+    affect the resolution of international crises?  We use Bayesian mechanism
+    design to investigate the relationship between the wide variety of
+    possible negotiation protocols and the equilibrium outcomes of crises.
+    Our main conclusion is that although there is seemingly endless complexity
+    in the possible forms that negotiations can take, there is a very simple
+    structure to the possible outcomes that can emerge from negotiations. More
+    precisely, we show that any outcome of a complex negotiation procedure
+    could also be attained by a simple take-it-or-leave-it offer. In this
+    sense, the great diversity of potential bargaining structures is an
+    illusion. Our results cast doubt on the common supposition that a state is
+    better off using a flexible bargaining strategy than an inflexible one. In
+    an empirical analysis of international crises, we find that the issuance
+    of an ultimatum has no discernible effect on the result of a crisis, in
+    line with our theoretical predictions.
+
+- title: 'Boostrapped Basis Regression with Variable Selection: A New Method for Flexible Functional Form Estimation'
+  links:
+    - name: PDF
+      url: data/basics.pdf
+  note: >-
+    Co-authored with [Curt Signorino](http://www.rochester.edu/college/psc/signorino/).
+  abstract-short: >-
+    We introduce a new statistical model to estimate the shape of potentially
+    nonlinear, multivariate relationships. The estimator can accurately
+    estimate nonlinear relationships whose exact functional form is not known
+    in advance.  Compared to similar nonparametric estimators, ours is
+    computationally efficient and yields easy-to-interpret results.
+  abstract-long: >-
+    We introduce a new statistical model to estimate the shape of potentially
+    nonlinear, multivariate relationships. The method is built on basis
+    regression, in which simple functions like polynomials are combined to
+    approximate more complex relationships. To reduce the instability
+    typically associated with basis regression, we use penalized regression
+    techniques that perform automatic model selection, eliminating many terms
+    from the final estimate. We focus on methods that satisfy the oracle
+    property, which guarantees that terms with no true effect on the outcome
+    are excluded from the estimated model in sufficiently large
+    samples. Finally, we calculate standard errors and other estimates of
+    variability via the bootstrap. In a series of simulations, we show that
+    our method can accurately estimate nonlinear relationships, even if the
+    exact functional form is not known in advance. We apply our method to
+    Gartzke's (2007) data on the "capitalist peace" and find that joint
+    democracy and trade dependence may increase the chance of conflict in some
+    cases, contrary to the original results.
+  companions:
+    - title: 'Data Mining for Theorists'
+      url: http://polmeth.wustl.edu/mediaDetail.php?docId=1278
+    - title: 'An Alternative Solution to the Heckman Selection Problem: Selection Bias as Functional Form Misspecification'
+      url: http://polmeth.wustl.edu/mediaDetail.php?docId=1359
+
+- title: 'Misspecification and the Propensity Score: The Possibility of Overadjustment'
+  links:
+    - name: PDF
+      url: http://www.rochester.edu/college/psc/clarke/MissProp.pdf
+  note: >-
+    Co-authored with [Kevin Clarke](http://www.rochester.edu/college/psc/clarke/) and [Miguel Rueda](http://www.rochester.edu/college/gradstudents/mrueda/).
+  abstract-short: >-
+    The standard practice when estimating a treatment effect is to include all
+    available pre-treatment variables in the propensity score, and we
+    demonstrate that this approach is not always optimal when the goal is bias
+    reduction.
+  abstract-long: >-
+    The standard practice when estimating a treatment effect is to include all
+    available pre-treatment variables in the propensity score, and we
+    demonstrate that this approach is not always optimal when the goal is bias
+    reduction. We characterize the conditions under which including an
+    additional relevant variable in the propensity score increases the bias on
+    the effect of interest across a variety of different implementations of
+    the propensity score methodology. Moreover, we find that balance tests and
+    sensitivity analysis provide limited protection against overadjustment.
