@@ -167,7 +167,7 @@
     Co-authored with [Kevin Clarke](http://www.rochester.edu/college/psc/clarke/) and [Miguel Rueda](http://www.rochester.edu/college/gradstudents/mrueda/).
   abstract-short: >-
     The standard practice when estimating a treatment effect is to include all
-    available pre-treatment variables in the propensity score, and we
+    available pre-treatment variables in the propensity score.  We
     demonstrate that this approach is not always optimal when the goal is bias
     reduction.
   abstract-long: >-
