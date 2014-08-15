@@ -14,14 +14,10 @@ image:
 
 ---
 
-Hello!  I am currently a fellow in the
-[Program for Quantitative and Analytical Political Science](http://q-aps.princeton.edu)
-in the [Department of Politics](http://www.princeton.edu/politics) at
-Princeton University.  I am also a Ph.D. candidate in the
-[Department of Political Science](http://www.rochester.edu/college/psc) at the
-University of Rochester.  In the fall of 2014, I will be joining the
-[Department of Political Science at Vanderbilt University](http://www.vanderbilt.edu/political-science)
-as an Assistant Professor.
+Hello!  I am an Assistant Professor in the
+[Department of Political Science](http://www.vanderbilt.edu/political-science/)
+at Vanderbilt University.  I received my Ph.D. in political science from the
+University of Rochester in 2014.
 
 My research spans the areas of international relations, formal modeling, and
 statistical methodology.  My CV is available
@@ -30,4 +26,4 @@ statistical methodology.  My CV is available
 software packages, and course materials can be found
 [on GitHub](https://github.com/brentonk).
 
-I can be reached via email at `bkenkel<at>princeton.edu`.
+I can be reached via email at `brenton.kenkel@vanderbilt.edu`.
