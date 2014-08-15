@@ -18,7 +18,7 @@ I am the maintainer of the following R packages:
     Statistical Software* article
     ["Estimation of Extensive Form Games in R"](http://www.jstatsoft.org/v56/i08).
     The package source is hosted
-    [on Github](https://github.com/brentonk/games).
+    [on GitHub](https://github.com/brentonk/games).
 
   * [`polywog`](http://cran.r-project.org/web/packages/polywog/index.html)
     (coauthored with Curt Signorino), which allows users to estimate
@@ -28,11 +28,11 @@ I am the maintainer of the following R packages:
     statistical techniques are described in our working paper
     ["Bootstrapped Basis Regression with Variable Selection: A New Method for Flexible Functional Form Estimation"](data/basics.pdf).
     The package source is hosted
-    [on Github](https://github.com/brentonk/polywog).
+    [on GitHub](https://github.com/brentonk/polywog).
 
   * [`pbivnorm`](http://cran.r-project.org/web/packages/pbivnorm/index.html),
     which provides a vectorized function to compute the bivariate normal CDF.
     `pbivnorm` is based on code from the
     [`mnormt` package](http://cran.r-project.org/web/packages/mnormt/index.html).
     The `pbivnorm` package source is hosted
-    [on Github](https://github.com/brentonk/pbivnorm).
+    [on GitHub](https://github.com/brentonk/pbivnorm).

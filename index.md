@@ -28,6 +28,6 @@ statistical methodology.  My CV is available
 [in PDF format](data/kenkel_cv.pdf), and my working papers can be viewed on my
 [research page](research.html).  Many of my research projects, statistical
 software packages, and course materials can be found
-[on Github](https://github.com/brentonk).
+[on GitHub](https://github.com/brentonk).
 
 I can be reached via email at `bkenkel<at>princeton.edu`.

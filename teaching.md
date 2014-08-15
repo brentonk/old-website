@@ -16,4 +16,4 @@ description: >-
   * Spring 2012: Instructor of the R Short Course for first-year
     Ph.D. students in political science at the University of Rochester.
     Course materials are available
-    [on Github](https://github.com/brentonk/rcourse).
+    [on GitHub](https://github.com/brentonk/rcourse).
