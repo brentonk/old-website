@@ -68,6 +68,9 @@
     results against potential miscoding of outcomes.
 
 - title: 'Communication between Allies'
+  links:
+    - name: PDF
+      url: data/allies.pdf
   abstract-short: >-
     What kinds of information can allied countries credibly reveal to each
     other?  In a formal analysis of communication in a public goods dilemma, I
@@ -78,24 +81,21 @@
     avenues of contribution.
   abstract-long: >-
     I study the problems of diplomatic communication between states that have
-    a common purpose, such as in a joint military effort. I analyze a formal
+    a common purpose, such as in a joint military effort.  I analyze a formal
     model to characterize the conditions under which a state can credibly
-    reveal private information to its ally. On one hand, the joint effort is
-    more likely to be successful if the allies are fully informed about the
-    international environment. On the other hand, each individual state would
-    prefer to free-ride on its partners' efforts, all else equal. A state
-    therefore may have an incentive to conceal information from its ally, if
-    revealing such information would cause the ally to contribute less. Using
-    a formal model, I characterize what kinds of topics states can (and
-    cannot) credibly communicate about with their allies. No informative
-    communication is possible when the source of uncertainty is a state's
-    valuation of the issue at stake. In this case, a state prefers to pretend
-    to be relatively unwilling to participate, so as to induce greater
-    contributions by its partners. A similar result holds when one state has
-    private knowledge of the common enemy's strength: communication is
-    possible only under highly restrictive conditions. However, when there are
-    multiple ways to contribute, a state can credibly reveal information about
-    its comparative advantage.
+    reveal private information to its ally.  The results call into question
+    the supposition that alliances play a general information-sharing role.
+    No informative communication is possible when the states' private
+    information concerns their cost of contributing to the project or,
+    equivalently, their willingness to contribute.  In this case, states have
+    an incentive to pretend to be relatively unwilling to participate, so as
+    to induce greater contributions by their partners.  Similarly, when the
+    source of private information is intelligence about how much effort will
+    be required for the joint project to succeed, communication is possible
+    only under highly restrictive conditions.  On the other hand,
+    communication is broadly possible if there are multiple avenues of
+    contribution (e.g., ground and air power) and states have private
+    information about their specialty.
 
 - title: 'Choosing to Make an Ultimatum'
   note: >-
