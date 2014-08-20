@@ -29,6 +29,36 @@
     appear, and that productive investment can reduce commitment problems that
     otherwise lead to inefficiently high levels of appropriation.
 
+- title: 'Communication between Allies'
+  links:
+    - name: PDF
+      url: data/allies.pdf
+  abstract-short: >-
+    What kinds of information can allied countries credibly reveal to each
+    other?  In a formal analysis of communication in a public goods dilemma, I
+    find that the participants never reveal information about their
+    willingness to contribute.  Moreover, sharing of intelligence about a
+    common enemy can occur only under restrictive conditions.  However, the
+    allies may be able to reveal their comparative advantage among potential
+    avenues of contribution.
+  abstract-long: >-
+    I study the problems of diplomatic communication between states that have
+    a common purpose, such as in a joint military effort.  I analyze a formal
+    model to characterize the conditions under which a state can credibly
+    reveal private information to its ally.  The results call into question
+    the supposition that alliances play a general information-sharing role.
+    No informative communication is possible when the states' private
+    information concerns their cost of contributing to the project or,
+    equivalently, their willingness to contribute.  In this case, states have
+    an incentive to pretend to be relatively unwilling to participate, so as
+    to induce greater contributions by their partners.  Similarly, when the
+    source of private information is intelligence about how much effort will
+    be required for the joint project to succeed, communication is possible
+    only under highly restrictive conditions.  On the other hand,
+    communication is broadly possible if there are multiple avenues of
+    contribution (e.g., ground and air power) and states have private
+    information about their specialty.
+
 - title: 'A General Solution to Nonignorable Missing Outcomes in Binary Choice Data'
   links:
     - name: PDF
@@ -66,36 +96,6 @@
     (2010)](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7093156)
     analysis of counterinsurgency success, to examine the robustness of their
     results against potential miscoding of outcomes.
-
-- title: 'Communication between Allies'
-  links:
-    - name: PDF
-      url: data/allies.pdf
-  abstract-short: >-
-    What kinds of information can allied countries credibly reveal to each
-    other?  In a formal analysis of communication in a public goods dilemma, I
-    find that the participants never reveal information about their
-    willingness to contribute.  Moreover, sharing of intelligence about a
-    common enemy can occur only under restrictive conditions.  However, the
-    allies may be able to reveal their comparative advantage among potential
-    avenues of contribution.
-  abstract-long: >-
-    I study the problems of diplomatic communication between states that have
-    a common purpose, such as in a joint military effort.  I analyze a formal
-    model to characterize the conditions under which a state can credibly
-    reveal private information to its ally.  The results call into question
-    the supposition that alliances play a general information-sharing role.
-    No informative communication is possible when the states' private
-    information concerns their cost of contributing to the project or,
-    equivalently, their willingness to contribute.  In this case, states have
-    an incentive to pretend to be relatively unwilling to participate, so as
-    to induce greater contributions by their partners.  Similarly, when the
-    source of private information is intelligence about how much effort will
-    be required for the joint project to succeed, communication is possible
-    only under highly restrictive conditions.  On the other hand,
-    communication is broadly possible if there are multiple avenues of
-    contribution (e.g., ground and air power) and states have private
-    information about their specialty.
 
 - title: 'Choosing to Make an Ultimatum'
   note: >-
