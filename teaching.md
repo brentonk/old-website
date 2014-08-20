@@ -14,8 +14,8 @@ I am teaching the following courses in Fall 2014:
   * [PSCI 220: Crisis Diplomacy](/psci220) (undergraduate).  Course materials
     are available [on GitHub](https://github.com/brentonk/psci220).
 
-  * [PSCI 285: Domestic Consequences of International Politics](/psci285).
-    Course materials are available
+  * [PSCI 285: Domestic Consequences of International Politics](/psci285)
+    (undergraduate).  Course materials are available
     [on GitHub](https://github.com/brentonk/psci285).
 
 My office hours this semester are Mondays, 11:00 a.m. to 1:00 p.m., in
