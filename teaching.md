@@ -7,7 +7,7 @@ description: >-
 
 ---
 
-## Current Courses
+# Current Courses
 
 I am teaching the following courses in Fall 2014:
 
@@ -17,7 +17,7 @@ I am teaching the following courses in Fall 2014:
 My office hours this semester are Mondays, 11:00 a.m. to 1:00 p.m., in
 Commons 324.
 
-## Previous Courses
+# Previous Courses
 
   * Summer 2011 and 2012: Instructor of the "math pre-fresher" for incoming
     Ph.D. students in political science at the University of Rochester.

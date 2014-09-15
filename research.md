@@ -15,14 +15,14 @@ jquery: |-
 
 ---
 
-## Working Papers
+# Working Papers
 
 {% for article in site.data.working-papers %}
   <div class="row"><div class="col-sm-12">
-  <h3>
+  <h2>
     {{article.title}}
     {% for link in article.links %}<small>&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{link.url}}">{{link.name}}</a></small>{% endfor %}
-  </h3>
+  </h2>
   {% if article.note %}
   <p>
     <i>{{article.note}}</i>

@@ -7,7 +7,7 @@ description: >-
 
 ---
 
-## R Packages
+# R Packages
 
 I am the maintainer of the following R packages:
 
