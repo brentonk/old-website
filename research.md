@@ -44,11 +44,13 @@ jquery: |-
     {{article.abstract-long}}
   </p>
   {% if article.companions %}
+  <p>
   Companion papers: <ul>
   {% for paper in article.companions %}
-  <li>[{{paper.title}}]({{paper.url}})</li>
+  <li><a href="{{paper.url}}">{{paper.title}}</a></li>
   {% endfor %}
   </ul>
+  </p>
   {% endif %}
   </div></div>
 {% endfor %}

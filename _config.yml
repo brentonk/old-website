@@ -4,6 +4,4 @@ exclude: ["CNAME", ".gitignore", "Gemfile", "Gemfile.lock", "LICENSE"]
 all_cats: ['index', 'research', 'teaching', 'software', 'cv']
 cat_titles: ['Home', 'Research', 'Teaching', 'Software', 'CV']
 
-markdown: redcarpet
-redcarpet:
-  extensions: ['disable_indented_code_blocks']
+markdown: kramdown

@@ -90,16 +90,16 @@
     assumptions, nor do they require application-specific programming. I use
     simulations to illustrate which applied settings are most favorable to
     each of the three methods that I develop. I apply the methods to data from
-    two previous studies, [Oneal and Russett's
-    (1997)](http://www.jstor.org/stable/3013934) analysis of the liberal peace
-    and [Lyall's
-    (2010)](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7093156)
+    two previous studies, <a href="http://www.jstor.org/stable/3013934">Oneal and Russett's
+    (1997)</a> analysis of the liberal peace
+    and <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7093156">Lyall's
+    (2010)</a>
     analysis of counterinsurgency success, to examine the robustness of their
     results against potential miscoding of outcomes.
 
 - title: 'Choosing to Make an Ultimatum'
   note: >-
-    Co-authored with [Mark Fey](https://www.rochester.edu/college/faculty/markfey/).
+    Co-authored with <a href="https://www.rochester.edu/college/faculty/markfey/">Mark Fey</a>.
   abstract-short: >-
     How do flexibility and the other attributes of the bargaining process
     affect the resolution of international crises?  We show that any outcome
@@ -129,7 +129,7 @@
     - name: PDF
       url: data/basics.pdf
   note: >-
-    Co-authored with [Curt Signorino](http://www.rochester.edu/college/psc/signorino/).
+    Co-authored with <a href="http://www.rochester.edu/college/psc/signorino/">Curt Signorino</a>.
   abstract-short: >-
     We introduce a new statistical model to estimate the shape of potentially
     nonlinear, multivariate relationships. The estimator can accurately
@@ -164,7 +164,7 @@
     - name: PDF
       url: http://www.rochester.edu/college/psc/clarke/MissProp.pdf
   note: >-
-    Co-authored with [Kevin Clarke](http://www.rochester.edu/college/psc/clarke/) and [Miguel Rueda](http://www.rochester.edu/college/gradstudents/mrueda/).
+    Co-authored with <a href="http://www.rochester.edu/college/psc/clarke/">Kevin Clarke</a> and <a href="http://www.rochester.edu/college/gradstudents/mrueda/">Miguel Rueda</a>.
   abstract-short: >-
     The standard practice when estimating a treatment effect is to include all
     available pre-treatment variables in the propensity score.  We
