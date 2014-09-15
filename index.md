@@ -5,7 +5,7 @@ title: Home
 description: >-
     Brenton Kenkel is a political scientist who studies international
     relations, formal theory, and political methodology.
-textcol: col-sm-8 col-md-6 col-md-offset-1
+textcol: col-sm-8
 imagecol: col-sm-4
 image:
     src: img/at_beach.jpg

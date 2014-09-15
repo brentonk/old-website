@@ -1,0 +1,6 @@
+/* Don't allow text to get too wide */
+.container {
+    width: auto;
+    max-width: 800px;
+    padding: 0 15px;
+}

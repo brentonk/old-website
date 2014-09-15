@@ -4,7 +4,7 @@ category: cv
 title: CV
 description: >-
     Brenton Kenkel's curriculum vitae.
-textcol: col-sm-7 col-md-5 col-md-offset-1
+textcol: col-sm-7
 imagecol: col-sm-5 hidden-xs
 image:
     src: img/kenkel-cv.png
