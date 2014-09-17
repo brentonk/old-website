@@ -20,10 +20,9 @@ at Vanderbilt University.  I received my Ph.D. in political science from the
 University of Rochester in 2014.
 
 My research spans the areas of international relations, formal modeling, and
-statistical methodology.  My CV is available
-[in PDF format](data/kenkel_cv.pdf), and my working papers can be viewed on my
-[research page](research.html).  Many of my research projects, statistical
-software packages, and course materials can be found
-[on GitHub](https://github.com/brentonk).
+statistical methodology.  My CV is available [here](cv.html), and my working
+papers can be viewed on my [research page](research.html).  Many of my
+research projects, statistical software packages, and course materials can be
+found [on GitHub](https://github.com/brentonk).
 
 I can be reached via email at `brenton.kenkel@vanderbilt.edu`.
