@@ -14,8 +14,7 @@ I am teaching the following courses in Fall 2014:
   * [PSCI 220: Crisis Diplomacy](/psci220) (undergraduate).  Course materials
     are available [on GitHub](https://github.com/brentonk/psci220).
 
-My office hours this semester are Mondays, 11:00 a.m. to 1:00 p.m., in
-Commons 324.
+My office hours this semester are Mondays, 1:00 to 3:00 p.m., in Commons 324.
 
 # Previous Courses
 
