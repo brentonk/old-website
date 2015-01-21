@@ -9,20 +9,26 @@ description: >-
 
 # Current Courses
 
-I am teaching the following courses in Fall 2014:
+I am teaching the following courses in Spring 2015:
 
-  * [PSCI 220: Crisis Diplomacy](/psci220) (undergraduate).  Course materials
-    are available [on GitHub](https://github.com/brentonk/psci220).
+* [PSCI 220: Crisis Diplomacy](/psci220) (undergraduate).  Course materials are available [on GitHub](https://github.com/brentonk/psci220).
 
-My office hours this semester are Mondays, 1:00 to 3:00 p.m., in Commons 324.
+* [PSCI 221: Causes of War](/psci221) (undergraduate).  Course materials are available [on Github](https://github.com/brentonk/psci221).
+
+My office hours this semester are Thursdays, 12:30 to 2:30 p.m., in Commons 324.
+
 
 # Previous Courses
 
-  * Summer 2011 and 2012: Instructor of the "math pre-fresher" for incoming
-    Ph.D. students in political science at the University of Rochester.
-    Course materials available on request.
+## Vanderbilt University
 
-  * Spring 2012: Instructor of the R Short Course for first-year
-    Ph.D. students in political science at the University of Rochester.
-    Course materials are available
-    [on GitHub](https://github.com/brentonk/rcourse).
+### Undergraduate
+
+* PSCI 220: Crisis Diplomacy (Fall 2014)
+
+
+## University of Rochester
+
+* Math "pre-fresher" for incoming Ph.D. students in political science (Summer 2011, Summer 2012).  Course materials available on request.
+
+* R Short Course for first-year Ph.D. students in political science (Spring 2012).  Course materials are available [on GitHub](https://github.com/brentonk/rcourse).
