@@ -34,26 +34,23 @@
     - name: PDF
       url: data/allies.pdf
   abstract-short: >-
-    According to existing theories of information transmission, states that
-    have a common interest in a public good should be able to resolve mutual
-    uncertainty through diplomatic talk.  This paper, to the contrary, uses a
-    formal model to show that there are broad conditions under which potential
-    contributors to a public good cannot credibly reveal any information about
-    how much they are willing to give.
+    According to existing theories of information transmission, states with a
+    shared goal should be able to resolve mutual uncertainty through
+    diplomatic talk. This paper uses a formal model to show, to the contrary,
+    that potential contributors to a public good cannot credibly reveal any
+    information about how much they are willing to give.
   abstract-long: >-
-    Uncertainty is pervasive in international public goods problems.
-    Potential contributors to jointly beneficial projects often lack crucial
-    information, such as how much the other participants are willing to
-    contribute.  According to existing theories of information transmission,
-    states that have a common interest in a public good should be able to
-    resolve mutual uncertainty through diplomatic talk.  This paper, to the
-    contrary, uses a formal model to show that there are broad conditions
-    under which potential contributors to a public good cannot credibly reveal
-    any information about how much they are willing to give.  If a country
-    reveals that it is highly willing to give, then other contributors will
-    reduce their own contributions, knowing they can free-ride on its efforts.
-    Therefore, states have an incentive to feign unwillingness so as to
-    prevent their partners from free-riding.  These findings illustrate why
+    Uncertainty is pervasive in international public goods problems. States
+    may know they have a goal in common yet be unsure how much each other is
+    willing to give to the project. According to existing theories of
+    information transmission, states with a shared goal should be able to
+    resolve mutual uncertainty through diplomatic talk. This paper uses a
+    formal model to show, to the contrary, that potential contributors to a
+    public good cannot credibly reveal any information about how much they
+    are willing to give. States have an incentive to understate their own
+    willingness so as to sway their partners to take up more of the
+    burden. However, communication about private information other than a
+    state's willingness to give may be possible. The findings illustrate why
     common interest, while necessary, is not a sufficient condition for
     political actors to reveal private information through cheap talk.
 
