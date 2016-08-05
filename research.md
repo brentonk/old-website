@@ -8,6 +8,8 @@ description: >-
 
 # Publications
 
+* ["Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment"](https://www.rochester.edu/college/psc/clarke/MissProp.pdf) (with [Kevin A. Clarke](https://www.rochester.edu/college/psc/clarke/) and [Miguel R. Rueda](http://miguelrueda.net)).  Conditionally accepted at *Political Science Research and Methods.*
+
 * Mark Fey, Jinhee Jo, and Brenton Kenkel, ["Information and International Institutions Revisited,"](http://dx.doi.org/10.1177/0022002713503285) *Journal of Conflict Resolution* 59, no. 1 (2015).
 
 * Brenton Kenkel and Curtis S. Signorino, ["Estimating Extensive Form Games in R,"](http://www.jstatsoft.org/v56/i08) *Journal of Statistical Software* 56, no. 8 (2014).
@@ -41,8 +43,6 @@ description: >-
 ## Miscellaneous
 
 * ["Campaign Spending and Hidden Policy Intentions."](data/valence.pdf)
-
-* ["Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment"](https://www.rochester.edu/college/psc/clarke/MissProp.pdf) (with [Kevin A. Clarke](https://www.rochester.edu/college/psc/clarke/) and [Miguel R. Rueda](http://miguelrueda.net)).  Revise and resubmit at *Political Science Research and Methods.*
 
 * ["Boostrapped Basis Regression with Variable Selection: A New Method for Flexible Functional Form Estimation"](http://bkenkel.com/data/basics.pdf) (with [Curtis S. Signorino](https://www.rochester.edu/college/psc/signorino/)).  Related papers:
     * ["Data Mining for Theorists"](http://polmeth.wustl.edu/mediaDetail.php?docId=1278)
