@@ -8,7 +8,7 @@ description: >-
 
 # Publications
 
-* ["Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment"](https://www.rochester.edu/college/psc/clarke/MissProp.pdf) (with [Kevin A. Clarke](https://www.rochester.edu/college/psc/clarke/) and [Miguel R. Rueda](http://miguelrueda.net)).  Conditionally accepted at *Political Science Research and Methods.*
+* Kevin A. Clarke, Brenton Kenkel, and Miguel Rueda, ["Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment"](https://www.rochester.edu/college/psc/clarke/MissProp.pdf), conditionally accepted at *Political Science Research and Methods*.
 
 * Mark Fey, Jinhee Jo, and Brenton Kenkel, ["Information and International Institutions Revisited,"](http://dx.doi.org/10.1177/0022002713503285) *Journal of Conflict Resolution* 59, no. 1 (2015).
 
