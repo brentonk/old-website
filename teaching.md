@@ -9,22 +9,22 @@ description: >-
 
 # Current Courses
 
-I am teaching the following courses in Fall 2016:
+I am teaching the following courses in Spring 2017:
 
-* [PSCI 2221: Causes of War](http://bkenkel.com/psci2221)
+* PSCI 2220: Crisis Diplomacy
 
-* PSCI 8360: Formal Models of International Conflict
+* PSCI 8357: Statistics for Political Research II (lecture notes available at <http://bkenkel.com/pdaps>)
 
-My office hours in Fall 2016 are Monday 10:00 a.m.–12:00 p.m. in Commons 324.
+My office hours in Spring 2017 are on Thursdays, 11:00 a.m.–12:55 p.m., in Commons 324.
 
 
 # Previous Courses
 
 ## Vanderbilt University
 
-* [PSCI 2220: Crisis Diplomacy](http://bkenkel.com/psci2220)
+* PSCI 2221: Causes of War
 
-* [PSCI 8357: Statistics for Political Research II](http://bkenkel.com/psci8357)
+* PSCI 8360: Formal Models of International Conflict
 
 
 ## University of Rochester

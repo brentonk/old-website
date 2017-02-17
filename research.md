@@ -28,6 +28,8 @@ description: >-
 
 * ["Information and Communication in Public Goods Problems."](data/talk.pdf)
 
+* ["Punish Liars, Not Free-Riders."](data/punish-liars.pdf)
+
 * "Incentives and Intelligence Sharing."
 
 * "Is an Ultimatum the Last Word on Crisis Bargaining?" (with [Mark Fey](https://www.rochester.edu/college/faculty/markfey/index.html)).
@@ -43,7 +45,3 @@ description: >-
 ## Miscellaneous
 
 * ["Campaign Spending and Hidden Policy Intentions."](data/valence.pdf)
-
-* ["Boostrapped Basis Regression with Variable Selection: A New Method for Flexible Functional Form Estimation"](http://bkenkel.com/data/basics.pdf) (with [Curtis S. Signorino](https://www.rochester.edu/college/psc/signorino/)).  Related papers:
-    * ["Data Mining for Theorists"](http://polmeth.wustl.edu/mediaDetail.php?docId=1278)
-    * ["An Alternative Solution to the Heckman Selection Problem: Selection Bias as Functional Form Misspecification"](http://polmeth.wustl.edu/mediaDetail.php?docId=1359)
