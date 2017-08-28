@@ -10,7 +10,7 @@ description: >-
 
 * Robert J. Carroll and Brenton Kenkel, ["Prediction, Proxies, and Power,"](data/doe.pdf) conditionally accepted at *American Journal of Political Science*.  Data and code available at <http://doe-scores.com>.
 
-* Kevin A. Clarke, Brenton Kenkel, and Miguel Rueda, ["Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment"](https://www.rochester.edu/college/psc/clarke/MissProp.pdf), forthcoming at *Political Science Research and Methods*.
+* Kevin A. Clarke, Brenton Kenkel, and Miguel Rueda, ["Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment,"](https://doi.org/10.1017/psrm.2016.46) forthcoming at *Political Science Research and Methods*.
 
 * Mark Fey, Jinhee Jo, and Brenton Kenkel, ["Information and International Institutions Revisited,"](http://dx.doi.org/10.1177/0022002713503285) *Journal of Conflict Resolution* 59, no. 1 (2015).
 
@@ -19,14 +19,14 @@ description: >-
 
 # Ongoing Research
 
-## Extractive Politics and Group Conflict
+## Conquest and Group Conflict
 
 * ["Dividing the Conquered."](data/divconq.pdf)
 
 
 ## Diplomacy and Communication
 
-* ["Information and Communication in Public Goods Problems."](data/talk.pdf)
+* ["Information and Communication in Collective Action Problems."](data/ca1.pdf)  Under review.
 
 * ["Punish Liars, Not Free-Riders."](data/punish-liars.pdf)
 
