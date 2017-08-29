@@ -4,10 +4,10 @@ category: index
 title: Home
 description: >-
     Brenton Kenkel is a political scientist who studies the political economy of conflict and diplomacy.
-textcol: col-sm-8
-imagecol: col-sm-4
+textcol: col-sm-6
+imagecol: col-sm-6
 image:
-    src: img/at_beach.jpg
+    src: img/at-highland-park-crop.png
     alt: Photo of Brenton Kenkel.
     title: Photo of me by Brooke Hamilton, my exceptional wife.
 
