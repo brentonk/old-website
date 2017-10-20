@@ -21,12 +21,12 @@ description: >-
 
 ## Conquest and Group Conflict
 
-* ["Dividing the Conquered."](data/divconq.pdf)
+* ["Tribute, Plunder, and Social Order"](data/divconq.pdf) (formerly "Dividing the Conquered")
 
 
 ## Diplomacy and Communication
 
-* ["Information and Communication in Collective Action Problems."](data/ca1.pdf)  Under review.
+* ["Information and Communication in Collective Action Problems."](data/ca1.pdf)
 
 * ["Punish Liars, Not Free-Riders."](data/punish-liars.pdf)
 
