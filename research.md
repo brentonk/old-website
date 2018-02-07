@@ -21,18 +21,20 @@ description: >-
 
 ## Conquest and Group Conflict
 
-* ["Tribute, Plunder, and Social Order"](data/divconq.pdf) (formerly "Dividing the Conquered")
+* ["Tribute, Plunder, and Social Order"](data/divconq.pdf) (formerly "Dividing the Conquered").
 
 
 ## Diplomacy and Communication
 
-* ["Information and Communication in Collective Action Problems."](data/ca1.pdf)
+* ["Information and Communication in Collective Action Problems."](data/ca1.pdf)  Under review.
+
+* "Is an Ultimatum the Last Word on Crisis Bargaining?" (with [Mark Fey](https://www.rochester.edu/college/faculty/markfey/index.html)).  Under review.
 
 * ["Punish Liars, Not Free-Riders."](data/punish-liars.pdf)
 
-* "Incentives and Intelligence Sharing."
+* ["Diplomatic Relations and Conflict Management: A Dynamic Analysis."](data/dyndip.pdf)
 
-* "Is an Ultimatum the Last Word on Crisis Bargaining?" (with [Mark Fey](https://www.rochester.edu/college/faculty/markfey/index.html)).
+* "Incentives and Intelligence Sharing."
 
 
 ## Measurement Problems in International Relations
@@ -44,4 +46,4 @@ description: >-
 
 ## Miscellaneous
 
-* ["Campaign Spending and Hidden Policy Intentions."](data/valence.pdf)
+* ["Campaign Spending and Hidden Policy Intentions."](data/valence.pdf)  Under review.
