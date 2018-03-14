@@ -21,14 +21,14 @@ description: >-
 
 ## Conquest and Group Conflict
 
-* ["Tribute, Plunder, and Social Order"](data/divconq.pdf) (formerly "Dividing the Conquered").
+* ["Social Conflict and the Predatory State: When Does It Pay to Divide and Rule?"](data/divconq.pdf)
 
 
 ## Diplomacy and Communication
 
 * ["Information and Communication in Collective Action Problems."](data/ca1.pdf)  Under review.
 
-* "Is an Ultimatum the Last Word on Crisis Bargaining?" (with [Mark Fey](https://www.rochester.edu/college/faculty/markfey/index.html)).  Under review.
+* "Is an Ultimatum the Last Word on Crisis Bargaining?" (with [Mark Fey](https://www.rochester.edu/college/faculty/markfey/index.html)).
 
 * ["Punish Liars, Not Free-Riders."](data/punish-liars.pdf)
 
