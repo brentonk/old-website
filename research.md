@@ -32,7 +32,7 @@ description: >-
 
 * ["Punish Liars, Not Free-Riders."](data/punish-liars.pdf)
 
-* ["Diplomatic Relations and Conflict Management: A Dynamic Analysis."](data/dyndip.pdf)
+* "Diplomatic Relations and Conflict Management: A Dynamic Analysis."
 
 * "Incentives and Intelligence Sharing."
 
