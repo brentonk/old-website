@@ -28,7 +28,7 @@ description: >-
 
 * ["Information and Communication in Collective Action Problems."](data/ca1.pdf)  Under review.
 
-* "Is an Ultimatum the Last Word on Crisis Bargaining?" (with [Mark Fey](https://www.rochester.edu/college/faculty/markfey/index.html)).
+* "Is an Ultimatum the Last Word on Crisis Bargaining?" (with [Mark Fey](https://www.rochester.edu/college/faculty/markfey/index.html)).  Under review.
 
 * ["Punish Liars, Not Free-Riders."](data/punish-liars.pdf)
 
@@ -46,4 +46,4 @@ description: >-
 
 ## Miscellaneous
 
-* ["Campaign Spending and Hidden Policy Intentions."](data/valence.pdf)  Under review.
+* ["Signaling Policy Intentions in Fundraising Contests."](data/valence.pdf)  Revise and resubmit at *Quarterly Journal of Political Science*.
