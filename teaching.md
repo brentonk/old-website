@@ -9,7 +9,9 @@ description: >-
 
 # Current Courses
 
-I am on sabbatical in fall 2017 and teaching no courses.
+* PSCI 8360: Formal Models of International Conflict
+
+My office hours are Wednesdays from 2:00 to 4:00 p.m.
 
 
 # Previous Courses
@@ -22,10 +24,10 @@ I am on sabbatical in fall 2017 and teaching no courses.
 
 * PSCI 8357: Statistics for Political Research II (lecture notes available at <http://bkenkel.com/pdaps>)
 
-* PSCI 8360: Formal Models of International Conflict
-
 
 ## University of Rochester
+
+* PSC 586: Political Economy II (topic: The Economics of War)
 
 * Math "pre-fresher" for incoming Ph.D. students in political science (Summer 2011, Summer 2012).  Course materials available on request.
 
