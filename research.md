@@ -8,7 +8,7 @@ description: >-
 
 # Publications
 
-* ["Signaling Policy Intentions in Fundraising Contests."](data/valence.pdf), accepted at *Quarterly Journal of Political Science*.
+* ["Signaling Policy Intentions in Fundraising Contests,"](data/valence.pdf) accepted at *Quarterly Journal of Political Science*.
 
 * Robert J. Carroll and Brenton Kenkel, ["Prediction, Proxies, and Power,"](data/doe.pdf) conditionally accepted at *American Journal of Political Science*.  Data and code available at <http://doe-scores.com>.
 
