@@ -8,6 +8,8 @@ description: >-
 
 # Publications
 
+* ["Signaling Policy Intentions in Fundraising Contests."](data/valence.pdf), accepted at *Quarterly Journal of Political Science*.
+
 * Robert J. Carroll and Brenton Kenkel, ["Prediction, Proxies, and Power,"](data/doe.pdf) conditionally accepted at *American Journal of Political Science*.  Data and code available at <http://doe-scores.com>.
 
 * Kevin A. Clarke, Brenton Kenkel, and Miguel Rueda, ["Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment,"](https://doi.org/10.1017/psrm.2016.46) forthcoming at *Political Science Research and Methods*.
@@ -21,7 +23,7 @@ description: >-
 
 ## Conquest and Group Conflict
 
-* ["Social Conflict and the Predatory State: When Does It Pay to Divide and Rule?"](data/divconq.pdf)
+* ["Social Conflict and the Predatory State."](data/divconq.pdf)  Under review.
 
 
 ## Diplomacy and Communication
@@ -34,16 +36,9 @@ description: >-
 
 * "Diplomatic Relations and Conflict Management: A Dynamic Analysis."
 
-* "Incentives and Intelligence Sharing."
-
 
 ## Measurement Problems in International Relations
 
 * ["A General Solution to Nonignorable Missing Outcomes in Binary Choice Data."](data/idlogit.pdf)  Winner of the 2011 prize for the best poster presented at the [Society for Political Methodology](http://polmeth.wustl.edu) summer meeting.
 
 * "A Quantitative Bargaining Theory of War" (with [Kristopher W. Ramsay](http://scholar.princeton.edu/kramsay/home)).
-
-
-## Miscellaneous
-
-* ["Signaling Policy Intentions in Fundraising Contests."](data/valence.pdf)  Revise and resubmit at *Quarterly Journal of Political Science*.
