@@ -16,7 +16,7 @@ description: >-
 
 * Brenton Kenkel, ["Signaling Policy Intentions in Fundraising Contests,"](http://dx.doi.org/10.1561/100.00018001) *Quarterly Journal of Political Science* 14, no. 2 (2019).
 
-* Kevin A. Clarke, Brenton Kenkel, and Miguel Rueda, ["Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment,"](https://doi.org/10.1017/psrm.2016.46) forthcoming at *Political Science Research and Methods*.
+* Kevin A. Clarke, Brenton Kenkel, and Miguel Rueda, ["Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment,"](https://doi.org/10.1017/psrm.2016.46) *Political Science Research and Methods* 6, no. 2 (2018).
 
 * Mark Fey, Jinhee Jo, and Brenton Kenkel, ["Information and International Institutions Revisited,"](http://dx.doi.org/10.1177/0022002713503285) *Journal of Conflict Resolution* 59, no. 1 (2015).
 
