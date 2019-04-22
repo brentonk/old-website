@@ -7,14 +7,9 @@ description: >-
 
 ---
 
-# Current Courses
-
-* PSCI 8360: Formal Models of International Conflict
-
-My office hours are Wednesdays from 2:00 to 4:00 p.m.
-
-
 # Previous Courses
+
+Syllabi and other materials not listed here are available on request.
 
 ## Vanderbilt University
 
@@ -23,6 +18,8 @@ My office hours are Wednesdays from 2:00 to 4:00 p.m.
 * PSCI 2221: Causes of War
 
 * PSCI 8357: Statistics for Political Research II (lecture notes available at <http://bkenkel.com/pdaps>)
+
+* PSCI 8360: Formal Models of International Conflict
 
 
 ## University of Rochester
